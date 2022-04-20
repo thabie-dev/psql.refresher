@@ -1,0 +1,22 @@
+{
+  "name": "psql-refresh-workshop",
+  "version": "1.0.0",
+  "description": "PostgreSQL refresh workshop - postgresql is a modern sql database.",
+  "main": "garments.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pg-promise": "^10.11.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
