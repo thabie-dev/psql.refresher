@@ -125,7 +125,6 @@ describe('As part of the sql refresh workshop', () => {
 		// and below this line for this function will
 		await db.none("delete from garment where gender = 'Unisex'")
 
-
 		// write your code above this line
 
 		const gender_count_sql = 'select count(*) from garment where gender = $1'
