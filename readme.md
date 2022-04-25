@@ -1,4 +1,9 @@
-# psql refresher workshop
+[![Build Status](https://app.travis-ci.com/thabie-dev/psql.refresher.svg?branch=master)](https://app.travis-ci.com/thabie-dev/psql.refresher)
+
+
+
+
+<!-- # psql refresher workshop
 
 Fix all the failing tests. An refresh your sql knowledge in the process.
 
@@ -124,4 +129,4 @@ Connect to your database using psql in the terminal run this command:
 psql <your db url here>
 ```
 
-Create the garment table in the new database using the `\i sql/garment.sql` command in `psql`.
+Create the garment table in the new database using the `\i sql/garment.sql` command in `psql`. -->
