@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/thabie-dev/psql.refresher.svg?branch=master)](https://app.travis-ci.com/thabie-dev/psql.refresher)
+[![Build Status](https://app.travis-ci.com/thabie-dev/psql.refresher.svg?branch=gh-pages)](https://app.travis-ci.com/thabie-dev/psql.refresher)
 
 
 
