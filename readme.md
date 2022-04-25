@@ -1,5 +1,4 @@
-[![Build Status](https://app.travis-ci.com/thabie-dev/psql.refresher.svg?branch=gh-pages)](https://app.travis-ci.com/thabie-dev/psql.refresher)
-
+[![NodeJS CI with PostgreSQL](https://github.com/thabie-dev/psql.refresher/actions/workflows/node.js.yml/badge.svg)](https://github.com/thabie-dev/psql.refresher/actions/workflows/node.js.yml)
 
 
 
